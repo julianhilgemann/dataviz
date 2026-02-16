@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+heatmap_yields/raw_csv/
+heatmap_yields/output/*.csv
