@@ -14,6 +14,7 @@ Location: `heatmap_yields/`
 
 ### Output
 - Heatmap image: [`heatmap_yields/output/yield_curve_heatmap.png`](heatmap_yields/output/yield_curve_heatmap.png)
+- Presentation image: [`heatmap_yields/output/dataviz_yield_heatmap.png`](heatmap_yields/output/dataviz_yield_heatmap.png)
 
 ![Yield Curve Heatmap](heatmap_yields/output/yield_curve_heatmap.png)
 
